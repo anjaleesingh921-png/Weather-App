@@ -5,6 +5,10 @@ body{
   padding:20px;
   text-align: center;
   background-image: url(premium_vector-1697729804286-7dd6c1a04597.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   
 }
 #cityInput{
@@ -32,6 +36,9 @@ background-color: #1976d2;
   border-radius: 15px;
   box-shadow:0 4px 10px
   rgba(0,0,0,0,2);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   
 }
 .city-name{
