@@ -46,7 +46,7 @@ for (const city of cities){
     style ="background-image:${bgImage};">
   
 <h2>${data.location.name}</h2>
-<p>${data.current.condition.text}"</p>
+<p>${data.current.condition.text}</p>
 <img src="https:${data.current.condition.icon}">
 <p>🌡️ Temperature: ${data.current.temp_c}°C</p>
 <p>💧 Humidity: ${data.current.humidity}%</p>
